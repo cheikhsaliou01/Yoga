@@ -100,7 +100,7 @@ window.addEventListener("DOMContentLoaded", function () {
        document.body.style.overflow = "";
     });
   
-  //Form
+  //Form data
 
    let message = {
      loading: "Загрузка...",
